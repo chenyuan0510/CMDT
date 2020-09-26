@@ -22,6 +22,7 @@ means the 1th, 2th and 6th features are nominal attributes, and the remaining va
 Output:
 1. *rlt* and *rlt_matrix* are the structure variable inclued *predy*, *myscore*, *introduce_site*, *subset*, *site_info*, *randnum*, *del_position*.
 we can use ```rlt.predy ``` get the test result of test dataset; and use ```rlt.del_position ``` get the features that has been removed by CMDT;
+
 % rlt.predy=predy;
 % rlt.myscore=myscore;
 % subset.introduce_site=x_site(subset.introduce_site);
