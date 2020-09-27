@@ -4,9 +4,9 @@ A Chi-MIC based adaptive multi-branch decision tree
 
 **1） MATLAB is the tool of CMDT;**
 
-**2)  The Chi-MIC should be installed:https://github.com/chenyuan0510/Chi-MIC**, and add the search path by ```addpath('D:\your-path-for-Chi-MIC');```, or using the graphical user interface: Home -> Environment -> Set Path -> Add with subfolders -> Save
+**2） The Chi-MIC should be installed:https://github.com/chenyuan0510/Chi-MIC**, and add the search path by ```addpath('D:\your-path-for-Chi-MIC');```, or using the graphical user interface: ```Home -> Environment -> Set Path -> Add with subfolders -> Save```
 
-**3)  Usage**
+**3） Usage**
 
  For Binary classification:
  
@@ -28,4 +28,4 @@ Output:
 1. *rlt* and *rlt_matrix* are the structure variable inclued *predy*, *myscore*, *introduce_site*, *subset*, *site_info*, *randnum*, *del_position*.
 we can use ```rlt.predy ``` get the predicted results of test dataset; and use ```rlt.del_position ``` get the features that has been removed by CMDT;
 
-Contact me: chenyuan0510@126.com
+# Contact me: chenyuan0510@126.com
