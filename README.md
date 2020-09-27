@@ -4,7 +4,7 @@ A Chi-MIC based adaptive multi-branch decision tree
 
 **1） MATLAB is the tool of CMDT;**
 
-**2)  The Chi-MIC should be installed:https://github.com/chenyuan0510/Chi-MIC**, and add the search path by ```addpath('D:\your-path-for-Chi-MIC');```
+**2)  The Chi-MIC should be installed:https://github.com/chenyuan0510/Chi-MIC**, and add the search path by ```addpath('D:\your-path-for-Chi-MIC');```, or using the graphical user interface: Home -> Environment -> Set Path -> Add with subfolders -> Save
 
 **3)  Usage**
 
