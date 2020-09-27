@@ -28,4 +28,4 @@ Output:
 1. *rlt* and *rlt_matrix* are the structure variable inclued *predy*, *myscore*, *introduce_site*, *subset*, *site_info*, *randnum*, *del_position*.
 we can use ```rlt.predy ``` get the predicted results of test dataset; and use ```rlt.del_position ``` get the features that has been removed by CMDT;
 
-# Contact me: chenyuan0510@126.com
+## Contact me: chenyuan0510@126.com
